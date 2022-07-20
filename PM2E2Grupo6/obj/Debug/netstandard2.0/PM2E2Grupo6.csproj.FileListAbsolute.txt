@@ -1,0 +1,34 @@
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.csproj.AssemblyReference.cache
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.AssemblyInfoInputs.cache
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.AssemblyInfo.cs
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.csproj.CoreCompileInputs.cache
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\bin\Debug\netstandard2.0\PM2E2Grupo6.deps.json
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\bin\Debug\netstandard2.0\PM2E2Grupo6.dll
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\bin\Debug\netstandard2.0\PM2E2Grupo6.pdb
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.dll
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\refint\PM2E2Grupo6.dll
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.pdb
+C:\Users\Petita\source\repos\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\ref\PM2E2Grupo6.dll
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\bin\Debug\netstandard2.0\PM2E2Grupo6.deps.json
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\bin\Debug\netstandard2.0\PM2E2Grupo6.dll
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\bin\Debug\netstandard2.0\PM2E2Grupo6.pdb
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.csproj.AssemblyReference.cache
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.AssemblyInfoInputs.cache
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.AssemblyInfo.cs
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.dll
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\refint\PM2E2Grupo6.dll
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\PM2E2Grupo6.pdb
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\ref\PM2E2Grupo6.dll
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\Views\DirectionsPage.xaml.g.cs
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\Views\FourSquarePage.xaml.g.cs
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\Views\MapsPage.xaml.g.cs
+C:\Users\fabri\Desktop\PM2E2Grupo6 (1)\PM2E2Grupo6\PM2E2Grupo6\obj\Debug\netstandard2.0\Views\UpdatePage.xaml.g.cs

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="PM2E2Grupo6.Views.MapsPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <maps:Map x:Name="Maps" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" IsShowingUser="True"/>
+            <FlexLayout>
+                <Label x:Name="txtLat"  Text="{Binding latitud}" TextColor="Transparent"/>
+                <Label x:Name="txtLng"  Text="{Binding longitud}" TextColor="Transparent"/>
+
+            </FlexLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

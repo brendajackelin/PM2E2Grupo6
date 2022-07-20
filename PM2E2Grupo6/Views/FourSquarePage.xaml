@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PM2E2Grupo6.Views.FourSquarePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button x:Name="btncargarvenues" Text="Cargar sitios cerca" Clicked="btncargarvenues_Clicked"/>
+
+            <ListView x:Name="listasitios" HorizontalOptions="FillAndExpand">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="auto" />
+                                </Grid.ColumnDefinitions>
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+
+                                <Label Text="{Binding name}" Grid.Row="0" FontAttributes="Bold" />
+                                <Label Text="{Binding location.country}" Grid.Row="1" FontAttributes="Bold" />
+                                <Label Text="{Binding location.distance}" Grid.Column="1" FontAttributes="Bold" />
+
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
